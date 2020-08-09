@@ -12,6 +12,6 @@
 - [ ] 使用 cookie 保存用户登录状态
 
 ## backend
-[backend server](https://github.com/jcqiao/node_login/server/README.md)
+[backend server](https://github.com/jcqiao/node_login/tree/master/server)
 ## frontend
-[frontend](https://github.com/jcqiao/node_login/vue/README.md)
+[frontend](https://github.com/jcqiao/node_login/tree/master/vue)
